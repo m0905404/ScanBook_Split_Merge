@@ -3,3 +3,6 @@ pypdf2
 pdf2image 
 PyMuPDF
 pillow
+pandas 
+matplotlib 
+seaborn
